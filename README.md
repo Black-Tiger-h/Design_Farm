@@ -119,6 +119,8 @@ Next.js는 화면을 담당하고 FastAPI는 업무 처리를 담당한다. 경�
 
 ## 기획 문서
 
+[코딩 입문자 3인 개발 로드맵 — 역할별 학습·실습·첫 작업](docs/team-roadmap.md)
+
 [기능명세서 v1.0 초안 — 화면·권한·입력값·예외 처리·인수 기준](docs/functional-spec.md)
 
 [제품 기획서와 의사결정 근거](docs/superpowers/specs/2026-09-16-design-farm-product-design.md)
