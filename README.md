@@ -119,6 +119,8 @@ Next.js는 화면을 담당하고 FastAPI는 업무 처리를 담당한다. 경�
 
 ## 기획 문서
 
+[기능명세서 v1.0 초안 — 화면·권한·입력값·예외 처리·인수 기준](docs/functional-spec.md)
+
 [제품 기획서와 의사결정 근거](docs/superpowers/specs/2026-09-16-design-farm-product-design.md)
 
 기획서는 초기 제안과 향후 검토 항목을 포함합니다. 현재 구현 범위는 이 README를 참고하세요.
