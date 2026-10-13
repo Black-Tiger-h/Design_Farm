@@ -1,0 +1,22 @@
+{
+  "method": "Built-in image_gen",
+  "disclosure": "Fictional artworks and artists, AI-generated catalog images, not photographs of real inventory.",
+  "assets": [
+    {
+      "key": "ochre",
+      "prompt": "Use case: photorealistic-natural. Asset: artwork catalog photograph for a contemporary Korean online art gallery. Photograph a single original abstract oil painting, portrait format canvas with very thin dark walnut frame. Composition inside painting: a hazy ochre apricot sun low in pale butter sky, large sweeping rusty terracotta and burnt sienna landforms, a small olive field; sophisticated gestural brushwork, visible linen canvas and impasto, poetic quiet landscape without obvious details. Frontal museum documentation shot, entire frame visible, narrow cream wall margin, soft natural side lighting, realistic retouched medium format photograph. Fill 86 percent of image with framed painting. No text, no lettering, no logos, no signatures. Portrait 4:5 image."
+    },
+    {
+      "key": "sculpture",
+      "prompt": "Use case: photorealistic-natural. Asset: contemporary sculpture catalog photograph. One original ivory plaster sculpture: two thick interlocking asymmetrical organic loop shapes, rounded and hand carved, subtle pores and fine stone texture. A sophisticated emerging artist sculptural study in negative space, roughly 38cm tall, standing on a low rectangular warm grey limestone plinth. Whole object visible including base, neutral warm off-white seamless studio backdrop with soft grounded shadow, museum-grade editorial product photography, 85mm lens, precisely retouched but tactile and believable. Restrained beige palette. No text, no people, no logos, no other objects. Portrait 4:5 image."
+    },
+    {
+      "key": "ceramic",
+      "prompt": "Use case: photorealistic-natural. Asset: fine craft artwork catalog photograph. A single handmade sculptural ceramic vase with round bulbous flattened body and short off-center neck, deep moss olive green ash glaze, subtle speckle and uneven handmade rim, exposed toasted clay foot, approx 24cm tall. Standing on pale sand travertine surface against muted warm putty seamless backdrop, directional soft afternoon studio light from left, beautiful grounded shadow, quiet Japanese/Korean contemporary craft magazine photography. Entire vase visible with breathing room, tactile and photoreal, professional medium-format retouched studio photo. No flowers, no words, no watermark, no logo. Portrait 4:5 image."
+    },
+    {
+      "key": "blue",
+      "prompt": "Use case: photorealistic-natural. Asset: original painting photograph for contemporary gallery. A single portrait rectangular abstract painting with a thin pale natural oak frame. Painting depicts deep ultramarine and cobalt irregular vertical washes of ink, a pale icy blue large organic oval window, small charcoal gestural marks and warm white paper, confident minimalist abstract composition with intense blues and subtle translucent layers. Real deckled cotton paper under nonreflective glass, frontal artwork documentation, slim cream wall surround, very soft daylight, fine visible paper texture and pigment edges. Whole frame visible, fills 86 percent. Museum editorial retouched photograph, no letters, no signature, no labels, no people. Portrait 4:5 image."
+    }
+  ]
+}

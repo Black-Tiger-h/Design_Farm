@@ -1,0 +1,30 @@
+{
+  "method": "Built-in image_gen",
+  "disclosure": "Original fictional artworks. AI-generated photographic catalogue images.",
+  "assets": [
+    {
+      "key": "verdant",
+      "title": "초록의 문장",
+      "prompt": "Use case: product-mockup. Create an original fictional fine art oil painting photographed for a premium Korean contemporary gallery catalogue. Portrait 4:5 photograph, full artwork centered front-on with only a small neutral gallery wall margin. Artwork: richly textured abstract landscape of moss green, sage, pale olive, a narrow warm ivory horizon, quiet bold gestural impasto. Slim natural oak frame. Painting itself portrait 40 by 50cm. Soft directional museum daylight, tactile thick paint and linen grain visible, restrained editorial color grading. Absolutely photographic, no digital illustration or CGI look. No text, signature, watermark, people or furniture.",
+      "path": "frontend/public/artworks/verdant.png"
+    },
+    {
+      "key": "bronze",
+      "title": "흐르는 결",
+      "prompt": "Use case: product-mockup. Photoreal premium gallery catalogue photograph of a new fictional small abstract bronze sculpture. A tall organic hollow oval loop gently twisted with an asymmetric flowing silhouette, thick edges, dark oxidized bronze with warm worn golden highlights and fine hammered casting texture, on a low rectangular charcoal stone base. Sculpture 20cm wide 34cm tall 15cm deep. Full object centered with clear margins, portrait 4:5 composition, warm pale grey seamless studio backdrop, perspective from slightly above at three quarter angle. Soft raking light from upper left, grounded contact shadows, subtle retouched editorial photography. No lettering, signature, watermark, people or props. Not a smooth 3D render.",
+      "path": "frontend/public/artworks/bronze.png"
+    },
+    {
+      "key": "porcelain",
+      "title": "백색의 숨",
+      "prompt": "Use case: product-mockup. Photoreal premium contemporary craft gallery catalogue photograph of a single original fictional handmade porcelain moon jar, softly rounded almost spherical body with an irregular narrow open rim and small foot, warm milky white satin glaze with delicate tiny iron freckles and subtle throwing rings. 25cm wide 28cm high. Full object centered with clear margins, portrait 4:5 composition, warm taupe seamless studio backdrop and softly lit stone surface, three quarter view at the height of its shoulder, show the mouth opening. Daylight from left makes imperfections and ceramic texture visible, realistic refined retouched photography. No text, watermark, flowers, other objects, hands or people. Not CGI.",
+      "path": "frontend/public/artworks/porcelain.png"
+    },
+    {
+      "key": "weave",
+      "title": "겹의 풍경",
+      "prompt": "Use case: product-mockup. Create an original fictional woven textile wall art photographed front-on for a premium art gallery catalogue. Rectangular portrait 30cm wide by 40cm high panel tightly framed with thin natural dark oak. Abstract low relief curved fields woven from raw ivory linen, toasted flax and rust brown wool; beautiful thick loops, tufts and directional fibre strands. Calm minimal composition with overlapping rounded dunes, carefully crafted tactile surface. Full artwork centered with small margins of warm white gallery wall, portrait 4:5 photograph. Soft angled natural museum lighting reveals fibres and shallow relief with gentle shadows, tasteful editorial color grading. Real photographic detail. No text, signatures, watermarks, people or furniture.",
+      "path": "frontend/public/artworks/weave.png"
+    }
+  ]
+}
