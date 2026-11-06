@@ -1,5 +1,7 @@
 # Design Farm — 일상에 머무는 예술
 
+팀 개발을 시작하기 전에 [브랜치·PR·리뷰 협업 규칙](CONTRIBUTING.md)을 확인하세요.
+
 2026-10-09 새 디자인 버전. **Next.js + TypeScript / FastAPI 기반 로컬 웹앱**입니다. 데이터는 SQLite에 저장합니다. Supabase 연동과 공개 배포는 아직 하지 않았습니다.
 
 기존 `index.html`, `check.cjs`는 비교용으로 보존했습니다. 이전 설명은 [README.legacy.md](README.legacy.md)에 있습니다. **새 버전은 HTML 파일을 더블클릭하는 대신 서버를 실행해야 합니다.**
